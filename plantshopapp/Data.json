@@ -1,0 +1,91 @@
+{
+  "products": [ 
+     
+
+        {  
+          "id": 1,     
+          "title": "Aloe Vera Plant",     
+          "thumbnail": "aloevera.jpg",          
+          "description": "Releases oxygen at night while absorbing carbon dioxide and certain toxins. An air purifying plant that's a moisturizer, anti-inflammatory, wound healing, acne treatment.",
+          "price": "37",
+          "quantity": 1
+      },
+        { 
+          "id": 2,
+          "title": "Money Tree Plant",     
+          "thumbnail": "moneyplant.jpg",          
+          "description": "Improves air quality, potential stress reduction, and an air purifying plant that is believed to bring good luck and prosperity, making them a popular choice for homes and offices.",
+          "price": "36",
+          "quantity": 1
+      },
+        
+        {
+          "id": 3,
+          "title": "Peace Lily Plant",     
+          "thumbnail": "Peaceplant.jpg",          
+          "description": "Purifies indoor air by removing toxins and mold spores, increasing humidity, and potentially promoting better sleep and a more calming environment.",
+          "price": "34",
+          "quantity": 1
+        }
+           
+    ,
+    
+   
+        {
+          "id": 4,
+          "title": "Rosemary Plant",     
+          "thumbnail": "rosemaryplant.jpg",          
+          "description": "Aides in hairgrowth, supports brain health, improves memory and cognitive function, acts as an antioxidant herb and anti-inflammatory agent, and aides in digestion.",
+          "price": "30",
+          "quantity": 1
+      },
+        {
+          "id": 5,
+          "title": "Lavender Plant",     
+          "thumbnail": "lavenderplant.jpg",          
+          "description": "An herb that promotes relaxation, improves sleep quality, alleviates anxiety, and provide some insect repellent properties.",
+          "price": "32",
+          "quantity": 1
+      },
+        {
+          "id": 6,
+          "title": "Mint Plant",     
+          "thumbnail": "mintplant.jpg",          
+          "description": "Helps with digestive health, an herb that reduces allergic symptoms, and soothes common cold symptoms.",
+          "price": "20",
+          "quantity": 1
+      }
+   
+    ,
+    
+   
+        {
+          "id": 7,
+          "title": "Sunflower Plant",     
+          "thumbnail": "sunflowerplant.jpg",          
+          "description": "A flower plant that improves heart health, diabetes management, enhanced immunity, and skin benefits.",
+          "price": "15",
+          "quantity": 1
+      },
+        {
+          "id": 8,
+          "title": "Rose Plant",     
+          "thumbnail": "roseplant.jpg",          
+          "description": "This flower plant treats inflammation, diabetes, dysmenorrhea, depression, stress, seizures, and aging",
+          "price": "10",
+          "quantity": 1
+      },
+        
+        {
+          "id": 9,
+          "title": "Hibiscus Plant",     
+          "thumbnail": "hibiscusplant.jpg",          
+          "description": "An antioxidant properties holding flower that regulates blood pressure, and promotes weight loss through tea consumption.",
+          "price": "10",
+          "quantity": 1
+      }
+      
+  ]
+  
+}
+  
