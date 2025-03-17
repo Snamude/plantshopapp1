@@ -16,9 +16,6 @@
     padding-top: 20px;
   }
   
-  .left {
-    
-  }
   
   .right {
     right: 0;
@@ -68,11 +65,9 @@
   }
   .bg-image {
     /* The image used */
-    background-image: url("conference.jpg");
+    background-image: url("greenthumb1.jpg");
   
-    /* Add the blur effect */
-    filter: blur(8px);
-    -webkit-filter: blur(18px);
+   
   
     /* Full height */
     height: 100%;
