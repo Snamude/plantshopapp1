@@ -7,16 +7,47 @@ import Cart from './Pages/Cart'
 
 const App = () => {  
   return (
-    <BrowserRouter>
-    <Navbar />
-    
-    <Routes>
-      <Route path="/" element={<Products></Products>}></Route>
-      <Route path="/cart" element={<Cart></Cart>}></Route>
+ <!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="Conference.css">
+
+</head>
+<body>
+  <div class="bg-image"></div>
+<div class="split left">
+  <div class="Centered">
+    <h1>Green Thumb</h1>
+    <p>A world of plants at your fingertips.</p>
+    <a href=""><button class="get-started">Get Started</button></a>
+  </div>
+</div>
+<div class="split right">
+  <div class="centered">
+    <p>Welcome to Green Thumb, a plant haven that boasts a diverse collection of plants, 
+      carefully curated to cater to every green thumb, from novice gardeners to 
+      seasoned horticulturists.</p>
+    <p>Our plants are listed into three categories on the product listing page. 
+      The first row are Air Purifying Plants. The second row are Aromatic Fragrant 
+      Plants. The third row are Flower Plants. </p>
+    <p>Whether you seek the vibrant hues of flowering plants, 
+      the soothing serenity of succulents, or the lush foliage of tropical ferns, 
+      you'll find a treasure trove of botanical wonders within their virtual aisles. 
+      Each plant is meticulously sourced, ensuring optimal health and vitality, ready 
+      to thrive in your care.</p>
+        
+  </div>
+</div>
      
-    </Routes>
-   
-    </BrowserRouter>
+</body>
+</html> 
+
   )
 }
 
